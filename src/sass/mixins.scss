@@ -1,0 +1,10 @@
+@import "./variables";
+
+// ** Color **
+@mixin background-opacity($opacity) {
+    background: rgba($primary-color, $opacity);
+}
+
+@mixin icon-opacity($opacity) {
+    color: rgba($secondary-color, $opacity);
+}

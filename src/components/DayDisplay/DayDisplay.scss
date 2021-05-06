@@ -1,0 +1,26 @@
+@import "../../sass/mixins";
+
+.my-card {
+    width: 230px;
+    @include background-opacity(0.1);
+}
+
+.clear {
+    color: #a0c2e9;
+}
+
+.cloud-light {
+    @include icon-opacity(0.5);
+}
+
+.cloudy {
+    @include icon-opacity(0.7);
+}
+
+.cloud-dark {
+    @include icon-opacity(1);
+}
+
+.icon-size {
+    font-size: 60px;
+}
