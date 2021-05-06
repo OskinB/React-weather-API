@@ -1,6 +1,6 @@
 # React Weather API
-Weather forecast application for the next 7 days for Reykjavík, Iceland. API used from: http://docs.apis.is/#endpoint-weather <br> 
-Check out the project live with GitHub Pages:  
+Weather forecast application for Reykjavík, Iceland. API used from: http://docs.apis.is/#endpoint-weather <br> 
+Check out the project live with Netlify: https://react-weather-ice.netlify.app/ 
 > Desktop and mobile view.
 
 ## Project setup
